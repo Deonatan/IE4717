@@ -1,0 +1,38 @@
+body {
+    font-family:Verdana, Arial, sans-serif;
+    background-color: #f3eab3;
+	
+}
+#wrapper {  
+    background-color: #e2d2b0; 
+    width: "80%";
+	min-width: "800px";
+    margin: auto;
+    box-shadow: 6px 6px 11px #4a2018;
+} 
+
+header{ 
+    background-color: #d2b48c;
+    padding: 10px 10px 10px 155px;
+
+}
+
+#sidebar{
+    float:left;
+    
+}
+
+#mainpage{
+    margin-left: 155px;
+    background-color: #ebebc5;
+    color: #000000;
+}
+
+footer {
+    font-size:80%;
+    text-align: center;
+    clear: right;
+    padding-bottom:20px;
+    padding-top: 20px;
+    background-color: #d2b48c; 
+}	
