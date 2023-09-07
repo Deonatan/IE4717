@@ -37,8 +37,16 @@ nav li {
 nav a {
     /*remove underline on hyperlink*/
     text-decoration: none;
-    color: #8f7b60;
+    color: #725632;
     font-weight: bold;
+}
+
+nav a:hover {
+    color: rgb(83, 83, 145); 
+}
+
+nav a:visited{
+    color:#8f7b60; 
 }
 
 #mainpage{
