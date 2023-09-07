@@ -14,3 +14,9 @@ img {
 table tr {
     padding-left: 40px;
 }
+audio {
+    margin-top: 10px;
+}
+p {
+    margin-left: 20px;
+}
