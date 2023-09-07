@@ -1,0 +1,15 @@
+/* table for Image, address + info */
+table p {
+    /*spacing for address */
+    margin-left: 40px;
+}
+
+table img {
+    padding: 0px 10px 40px 60px;
+}
+
+table li {
+    list-style-image: url(./public/coffee.png);
+    margin-top:0px;
+    margin-left:30px;
+}

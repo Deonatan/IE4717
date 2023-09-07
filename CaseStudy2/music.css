@@ -1,0 +1,16 @@
+table {
+    margin: auto;
+    width: 600px;
+}
+td {
+    padding: 5px;
+}
+tr:nth-of-type(odd) {
+    background-color: #edd7ba;
+}
+img {
+    padding: 0px 80px;
+}
+table tr {
+    padding-left: 40px;
+}
