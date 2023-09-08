@@ -63,3 +63,33 @@ footer {
     padding-top: 20px;
     background-color: #d2b48c; 
 }	
+
+#menu-table{
+    display:flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    /* padding-left: 100px; */
+}
+
+#menu-table td{
+    height: 38px;
+}
+
+.menu-desc{
+    width: 450px;
+    padding: 10px;
+}
+
+.menu-name{
+    text-align: center;
+    padding: 20px;
+    width: 100px;
+}
+
+.menu-color1{
+    background-color: #d2b48c;
+}
+
+.menu-color2{
+    background-color: #ebebc5;
+}
