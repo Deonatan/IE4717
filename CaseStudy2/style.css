@@ -2,6 +2,7 @@
 body {
     font-family:Verdana, Arial, sans-serif;
     background-color: #f3eab3;
+    color:#2C0102;
 }
 #wrapper {  
     background-color: #e2d2b0; 
@@ -45,14 +46,10 @@ nav a:hover {
     color: rgb(83, 83, 145); 
 }
 
-nav a:visited{
-    color:#8f7b60; 
-}
-
 #mainpage{
     margin-left: 155px;
     background-color: #ebebc5;
-    color: #000000;
+    color: #2C0102;
 }
 
 footer {
