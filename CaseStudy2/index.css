@@ -1,15 +1,19 @@
 /* table for Image, address + info */
-table p {
+#flexbox p {
     /*spacing for address */
     margin-left: 40px;
 }
-
-table img {
-    padding: 0px 10px 40px 60px;
-}
-
-table li {
+#flexbox li {
     list-style-image: url(./public/coffee.png);
-    margin-top:0px;
     margin-left:30px;
 }
+#flexbox ul{
+    margin-top: 0px;
+}
+#flexbox{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+
