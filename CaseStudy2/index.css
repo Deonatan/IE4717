@@ -1,7 +1,7 @@
 /* table for Image, address + info */
 #flexbox p {
     /*spacing for address */
-    margin-left: 40px;
+    margin-left: 45px;
 }
 #flexbox li {
     list-style-image: url(./public/coffee.png);
